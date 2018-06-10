@@ -1,0 +1,20 @@
+{
+  "name": "streamfile",
+  "version": "1.0.0",
+  "description": "Open Source ",
+  "author": "Nguyen Anh Duc",
+  "homepage": "https://www.facebook.com/nguyenanhduc0505",
+  "copyright": "Copyright 2018 Nguyen Anh Duc",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "base64-url": "^2.2.0",
+    "body-parser": "^1.18.3",
+    "crypto": "^1.0.1",
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "moment": "^2.22.2",
+    "request": "^2.87.0"
+  }
+}
