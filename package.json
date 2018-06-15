@@ -7,6 +7,9 @@
   "copyright": "Copyright 2018 Nguyen Anh Duc",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "base64-url": "^2.2.0",
     "body-parser": "^1.18.3",
